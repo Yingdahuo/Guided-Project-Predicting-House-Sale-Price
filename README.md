@@ -1,1 +1,1 @@
-# Guided-Project-Predicting-House-Sale-Price
+This is a project about predicting house sale prices in an area in the United States without consideration of different factors related to houses such as "Year of Built", "Year of Sold", "Number of Bathrooms" and etc.  
